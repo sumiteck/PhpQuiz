@@ -1,0 +1,15 @@
+{
+    "name": "niraj/certificate",
+    "description": "Dynamic PDF example using PHP and FPDF",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Niraj Shah",
+            "email": "niraj@webniraj.com"
+        }
+    ],
+    "require": {
+        "setasign/fpdf": "^1.8",
+        "setasign/fpdi-fpdf": "^1.6"
+    }
+}
